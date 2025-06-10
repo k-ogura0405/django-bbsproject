@@ -6,4 +6,4 @@ django-environ
 gunicorn
 psycopg2-binary
 whitenoise
-djang-Bootstraps
+django-Bootstraps
